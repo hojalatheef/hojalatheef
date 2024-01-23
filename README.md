@@ -21,7 +21,7 @@ I'm currently focused on deepening my knowledge in:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hojaonline/)
-- Twitter: [Your Twitter Handle](https://twitter.com/hojaonline)
+- [LinkedIn](https://www.linkedin.com/in/hojaonline/)
+- [Twitter](https://twitter.com/hojaonline)
 
 Feel free to reach out for collaboration, discussions, or just to say hi! 😊
