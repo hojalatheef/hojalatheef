@@ -1,8 +1,8 @@
-# Hi, I'm Hoja Mustaffa Abdul Latheef! 👋
+# Hi, I'm Hoja Mustaffa Abdul Latheef!
 
 I'm a **Senior Full Stack Developer** at [jweiland.net](https://jweiland.net) with expertise in **TYPO3**, **React**, **Angular**, and **TypeScript**, and a strong focus on **AI-assisted development**. I enjoy building robust, scalable web applications and using AI agents to make development faster, better tested, and better documented.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Backend & CMS**
 
@@ -27,7 +27,7 @@ I'm a **Senior Full Stack Developer** at [jweiland.net](https://jweiland.net) wi
 
 - Unit & functional testing
 
-## 🤖 AI Skills
+## AI Skills
 
 - **AI coding tools:** Claude, Claude Code, Google Antigravity
 - **Spec-driven development:** OpenSpec for planning and aligning AI-generated changes
@@ -38,7 +38,7 @@ I'm a **Senior Full Stack Developer** at [jweiland.net](https://jweiland.net) wi
 - **Prompt engineering:** clear, structured prompts and reusable agent instructions
 - **AI for quality:** automated code review, test generation, and documentation (READMEs, extension manuals)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 I'm always eager to learn and explore new technologies. Right now I'm focused on:
 
@@ -46,7 +46,7 @@ I'm always eager to learn and explore new technologies. Right now I'm focused on
 - Vue.js
 - Node.js
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hojaonline/)
 - [Twitter](https://twitter.com/hojaonline)
